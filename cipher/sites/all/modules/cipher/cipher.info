@@ -1,0 +1,5 @@
+name = Cipher
+description = enter a message for encoding
+package = Cipher
+core = 7.x
+files[] = cipher.module
